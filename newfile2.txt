@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file in branch develop2
+=======
+new file in develop 2
+>>>>>>> develop2
